@@ -17,7 +17,7 @@ A minimal test project to validate the **Unreal Engine 4.24 + C++ + Git** workfl
 4. Press **Ctrl+F5** to compile and launch  
 5. Open `TopDownCpptest.uproject` with **Unreal Engine 4.24**
 6. Add anything you want in UE(changes may take place in the folder `source`)
-7. Go back to VS 2019, use git to commit and pull
+7. Go back to VS 2019, use git to commit and push
 8. Go to github, create a pull request to this very repo(not the one you forked)
 
 > — this is a technical prototype only.
