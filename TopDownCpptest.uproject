@@ -10,15 +10,7 @@
       "LoadingPhase": "Default"
     }
   ],
-  "Plugins": [
-    {
-      "Name": "VisualStudioTools",
-      "Enabled": true,
-      "SupportedTargetPlatforms": [
-        "Win64"
-      ]
-    }
-  ],
+  "Plugins": [],
   "TargetPlatforms": [],
   "AdditionalRootDirectories": [],
   "AdditionalPluginDirectories": [],
